@@ -8,4 +8,7 @@ public class Git4 {
 	public void hah() {
 		System.out.println("Ë÷àË£¡£¡");
 	}
+	public void jiai(){
+		System.out.println("ÁÖÏş¼Î");
+	}
 }
