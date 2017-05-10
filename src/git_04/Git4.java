@@ -11,4 +11,7 @@ public class Git4 {
 	public void jiai(){
 		System.out.println("ÁÖÏş¼Î");
 	}
+	public void NNN() {
+		System.out.println("asabadi");
+	}
 }
